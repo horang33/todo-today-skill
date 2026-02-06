@@ -1,0 +1,22 @@
+# === macOS ===
+.DS_Store
+._*
+
+# === Windows ===
+Thumbs.db
+desktop.ini
+
+# === Node.js ===
+node_modules/
+
+# === 에디터/IDE ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === 임시 파일 ===
+*.tmp
+*.log
+*.bak
